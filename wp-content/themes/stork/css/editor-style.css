@@ -1,0 +1,326 @@
+/*
+Theme Name: Stork
+Description: Used to style the TinyMCE editor.
+*/
+
+body {
+	color: #333;
+	font-family: 'Karla', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.66667;
+	margin: 24px;
+	max-width: 780px;
+	vertical-align: baseline;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #1f1f1f;
+	font-weight: bold;
+	margin: 30px 0 12px;
+}
+
+h1 {
+	font-size: 34px;
+	letter-spacing: -1px;
+}
+
+h2 {
+	font-size: 28px;
+	letter-spacing: -1px;
+}
+
+h3 {
+	font-size: 22px;
+}
+
+h4 {
+	font-size: 18px;
+}
+
+h5,
+h6 {
+	font-size: 16px;
+}
+
+b,
+strong {
+	font-weight: 700;
+}
+
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+
+address {
+	font-style: italic;
+	margin: 0 0 24px;
+}
+
+mark,
+ins {
+	background: #d9d9d9;
+	color: #333;
+	padding: 0 3px;
+	text-decoration: none;
+}
+
+p {
+	margin: 0 0 24px;
+}
+
+blockquote {
+	border-left: 5px solid #3366c8;
+	color: #6e6e6e;
+	font-size: 20px;
+	font-style: italic;
+	line-height: 1.5;
+	margin: 0 0 24px;
+	padding-left: 24px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+blockquote cite,
+blockquote small {
+	font-weight: bold;
+}
+
+code,
+kbd,
+tt,
+var,
+samp,
+pre {
+	font-family: monospace, serif;
+}
+
+pre {
+	background: #f6f6f6;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 0 0 24px;
+	padding: 24px;
+	overflow: auto;
+	white-space: pre;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+abbr[title] {
+	border-bottom: 1px dotted;
+	cursor: help;
+}
+
+sup,
+sub {
+	font-size: 75%;
+	height: 0;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sub {
+	top: -6px;
+}
+
+sup {
+	bottom: -3px;
+}
+
+small {
+	font-size: 80%;
+}
+
+hr {
+	background: #d9d9d9;
+	border: 0;
+	height: 1px;
+	margin: 24px 0;
+}
+
+ul,
+ol {
+	margin: 0 0 24px;
+	padding: 0 0 0 24px;
+}
+
+ul {
+	list-style: circle;
+}
+
+ol {
+	list-style: decimal;
+}
+
+li > ul,
+li > ol {
+	margin-bottom: 0;
+}
+
+dl {
+	margin: 0 0 24px;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin: 0 0 12px;
+}
+
+a {
+	color: #3366c8;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #ff5148;
+}
+
+table,
+.mce-item-table {
+	border-collapse: separate;
+	border-spacing: 0;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 0 0 24px;
+	text-align: left;
+	width: 100%;
+}
+
+table caption,
+.mce-item-table caption {
+	color: #6e6e6e;
+	font-style: italic;
+	margin-bottom: 12px;
+	text-align: left;
+}
+
+table th,
+.mce-item-table th {
+	color: #1f1f1f;
+	font-weight: 700;
+}
+
+table th,
+table td,
+.mce-item-table td,
+.mce-item-table th {
+	padding: 8px;
+}
+
+img {
+	border: 0;
+	height: auto;
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+a img {
+	display: block;
+}
+
+figure {
+	margin: 0;
+}
+
+.alignleft {
+	float: left;
+	margin: 6px 24px 12px 0;
+}
+
+.alignright {
+	float: right;
+	margin: 6px 0 12px 24px;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin: 0 auto 24px;
+}
+
+.wp-caption {
+	background: transparent;
+	border: none;
+	margin-bottom: 24px;
+	max-width: 100%;
+	padding: 0;
+	text-align: inherit;
+}
+
+.wp-caption-text,
+.wp-caption-dd {
+	color: #6e6e6e;
+	font-size: 16px;
+	font-style: italic;
+	line-height: 1.5;
+	padding: 6px 0 0;
+	text-align: center;
+}
+
+.gallery {
+	margin: 0 -12px 24px;
+	padding: 0;
+}
+
+.gallery-item {
+	display: inline-block;
+	max-width: 100%;
+	padding: 12px;
+	text-align: center;
+	vertical-align: top;
+	width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+	max-width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+	max-width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+	max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+	max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+	max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+	max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+	max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+	max-width: 11.11%;
+}
+
+.gallery-columns-6 .gallery-caption,
+.gallery-columns-7 .gallery-caption,
+.gallery-columns-8 .gallery-caption,
+.gallery-columns-9 .gallery-caption {
+	display: none;
+}

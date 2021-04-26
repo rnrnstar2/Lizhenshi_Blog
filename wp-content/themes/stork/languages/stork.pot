@@ -1,0 +1,368 @@
+# Copyright (C) 2016 Just Good Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Stork 1.5.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/stork\n"
+"POT-Creation-Date: 2016-11-08 21:27:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:11
+msgid "404 - Page Not Found!"
+msgstr ""
+
+#: 404.php:14
+msgid "Sorry, the page you were looking for doesn&rsquo;t exist anymore or has been moved. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:16 tmpl-archives.php:22
+msgid "Latest Posts"
+msgstr ""
+
+#: author.php:22 content.php:39
+msgid "About %s"
+msgstr ""
+
+#: comments.php:18
+msgctxt "comments title"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:20
+msgid "Add your comment below"
+msgstr ""
+
+#: comments.php:34
+msgid "&larr; Older comments"
+msgstr ""
+
+#: comments.php:35
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: content-list.php:12 content.php:19 image.php:18 page.php:17
+#: tmpl-archives.php:17
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:8
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:12
+msgid "Sorry, but nothing matched your search criteria. Make sure all words are spelled correctly or try again with some different keywords."
+msgstr ""
+
+#: content-none.php:14
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content.php:25 functions.php:229 image.php:32
+msgid "Read More"
+msgstr ""
+
+#: content.php:27 image.php:34 page.php:24
+msgid "Pages:"
+msgstr ""
+
+#: content.php:40
+msgid "View all posts by %s &rarr;"
+msgstr ""
+
+#: footer.php:3
+msgid "Twitter"
+msgstr ""
+
+#: footer.php:4
+msgid "Facebook"
+msgstr ""
+
+#: footer.php:5
+msgid "Google+"
+msgstr ""
+
+#: footer.php:6
+msgid "Pinterest"
+msgstr ""
+
+#: footer.php:7
+msgid "Tumblr"
+msgstr ""
+
+#: footer.php:8
+msgid "Instagram"
+msgstr ""
+
+#: footer.php:9
+msgid "Flickr"
+msgstr ""
+
+#: footer.php:10
+msgid "LinkedIn"
+msgstr ""
+
+#: footer.php:11
+msgid "Dribbble"
+msgstr ""
+
+#: footer.php:12
+msgid "GitHub"
+msgstr ""
+
+#: footer.php:13
+msgid "Vimeo"
+msgstr ""
+
+#: footer.php:14
+msgid "YouTube"
+msgstr ""
+
+#: footer.php:15
+msgid "RSS"
+msgstr ""
+
+#: footer.php:43
+msgid "&copy; %1$s %2$s. Stork Theme by %3$s."
+msgstr ""
+
+#: footer.php:47
+msgid "Back To Top"
+msgstr ""
+
+#: functions.php:28
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:63
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: functions.php:65 functions.php:74 functions.php:83 functions.php:92
+msgid "Appears in the footer section of the site"
+msgstr ""
+
+#: functions.php:72
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: functions.php:81
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: functions.php:90
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: functions.php:186 functions.php:192 functions.php:194
+msgid "All posts in %s"
+msgstr ""
+
+#: functions.php:188
+msgid "All posts tagged %s"
+msgstr ""
+
+#: functions.php:190
+msgid "All posts by %s"
+msgstr ""
+
+#: functions.php:192
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:194
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: functions.php:196
+msgid "All posts dated %s"
+msgstr ""
+
+#: functions.php:196
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: header.php:38
+msgid "Menu"
+msgstr ""
+
+#: header.php:40
+msgid "Show Menu"
+msgstr ""
+
+#: image.php:59
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:60
+msgid "Next Image"
+msgstr ""
+
+#: includes/template-tags.php:32
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: includes/template-tags.php:39
+msgctxt "Used before category links"
+msgid "Posted in"
+msgstr ""
+
+#: includes/template-tags.php:48
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: includes/template-tags.php:57
+msgid "Leave a Reply"
+msgstr ""
+
+#: includes/template-tags.php:57
+msgid "1 Reply"
+msgstr ""
+
+#: includes/template-tags.php:57
+msgid "% Replies"
+msgstr ""
+
+#: includes/template-tags.php:79
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: includes/template-tags.php:92
+msgid "Tagged: "
+msgstr ""
+
+#: includes/template-tags.php:97
+msgid "Published in:"
+msgstr ""
+
+#: includes/template-tags.php:108
+msgid "&larr; Previous"
+msgstr ""
+
+#: includes/template-tags.php:109
+msgid "Next &rarr;"
+msgstr ""
+
+#: includes/template-tags.php:110
+msgid "Page"
+msgstr ""
+
+#: includes/theme-options.php:10
+msgid "General Settings"
+msgstr ""
+
+#: includes/theme-options.php:15
+msgid "Social Links Settings"
+msgstr ""
+
+#: includes/theme-options.php:28
+msgid "Primary Color"
+msgstr ""
+
+#: includes/theme-options.php:37
+msgid "Secondary Color"
+msgstr ""
+
+#: includes/theme-options.php:46
+msgid "Check if you use double sized logo."
+msgstr ""
+
+#: includes/theme-options.php:55
+msgid "Show Title"
+msgstr ""
+
+#: includes/theme-options.php:64
+msgid "Show Tagline"
+msgstr ""
+
+#: includes/theme-options.php:73
+msgid "Enable Animated Navigation Menu."
+msgstr ""
+
+#: includes/theme-options.php:82
+msgid "Footer Text."
+msgstr ""
+
+#: includes/theme-options.php:91
+msgid "Social Networks Section Title"
+msgstr ""
+
+#: includes/theme-options.php:100
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/theme-options.php:109
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/theme-options.php:118
+msgid "Google+ URL"
+msgstr ""
+
+#: includes/theme-options.php:127
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/theme-options.php:136
+msgid "Tumblr URL"
+msgstr ""
+
+#: includes/theme-options.php:145
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/theme-options.php:154
+msgid "Flickr URL"
+msgstr ""
+
+#: includes/theme-options.php:163
+msgid "LinkedIn URL"
+msgstr ""
+
+#: includes/theme-options.php:172
+msgid "Dribbble URL"
+msgstr ""
+
+#: includes/theme-options.php:181
+msgid "GitHub URL"
+msgstr ""
+
+#: includes/theme-options.php:190
+msgid "Vimeo URL"
+msgstr ""
+
+#: includes/theme-options.php:199
+msgid "YouTube URL"
+msgstr ""
+
+#: includes/theme-options.php:208
+msgid "RSS URL"
+msgstr ""
+
+#: search.php:11
+msgid "Search Results for: %s"
+msgstr ""
+
+#: tmpl-archives.php:31
+msgid "By Subject"
+msgstr ""
+
+#: tmpl-archives.php:40
+msgid "By Month"
+msgstr ""

@@ -1,0 +1,86 @@
+# Translation of Plugins - Public Post Preview - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Public Post Preview - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-10 15:18:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Public Post Preview - Stable (latest release)\n"
+
+#: js/src/components/preview-toggle/index.js:105 js/gutenberg-integration.js:1
+msgid "Error while changing the public preview status."
+msgstr "公開プレビューステータスの変更中にエラーが発生しました。"
+
+#: js/src/components/preview-toggle/index.js:94 js/gutenberg-integration.js:1
+msgid "Public preview disabled."
+msgstr "公開プレビューは無効です。"
+
+#: js/src/components/preview-toggle/index.js:94 js/gutenberg-integration.js:1
+msgid "Public preview enabled."
+msgstr "公開プレビューが有効です。"
+
+#: public-post-preview.php:484
+msgid "This link has expired!"
+msgstr "リンクの有効期限が切れています !"
+
+#. Author URI of the plugin
+msgid "https://dominikschilling.de/"
+msgstr "https://dominikschilling.de/"
+
+#. Description of the plugin
+msgid "Allow anonymous users to preview a post before it is published."
+msgstr "投稿が公開される前に、匿名のユーザーがプレビューを見られるようにします。"
+
+#: js/src/components/preview-toggle/index.js:136 js/gutenberg-integration.js:1
+msgid "Preview URL copied"
+msgstr "プレビュー URL をコピーしました"
+
+#: public-post-preview.php:223 js/src/components/preview-toggle/index.js:170
+#: js/gutenberg-integration.js:1
+msgid "Copy and share this preview URL."
+msgstr "プレビュー URL をコピーし、シェアします。"
+
+#: js/src/components/preview-toggle/index.js:150 js/gutenberg-integration.js:1
+msgid "Preview URL"
+msgstr "プレビュー URL"
+
+#: js/src/components/preview-toggle/index.js:136 js/gutenberg-integration.js:1
+msgid "Copy the preview URL"
+msgstr "プレビュー URL をコピー"
+
+#. Plugin URI of the plugin
+msgid "https://dominikschilling.de/wp-plugins/public-post-preview/en/"
+msgstr "https://dominikschilling.de/wp-plugins/public-post-preview/en/"
+
+#. Author of the plugin
+msgid "Dominik Schilling"
+msgstr "Dominik Schilling"
+
+#. Plugin Name of the plugin
+msgid "Public Post Preview"
+msgstr "Public Post Preview"
+
+#: public-post-preview.php:488
+msgid "No public preview available!"
+msgstr "外部確認は利用できません !"
+
+#: public-post-preview.php:218 js/src/components/preview-toggle/index.js:142
+#: js/gutenberg-integration.js:1
+msgid "Enable public preview"
+msgstr "外部確認を許可する"
+
+#: public-post-preview.php:146
+msgid "Public Preview"
+msgstr "外部確認"
+
+#: public-post-preview.php:129
+msgid "Disabled!"
+msgstr "無効化中"
+
+#: public-post-preview.php:128
+msgid "Enabled!"
+msgstr "有効化中"
